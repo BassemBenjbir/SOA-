@@ -23,12 +23,12 @@ import java.util.Date;
 //@ComponentScan({"com.delivery.request"})
 //@EntityScan("com.delivery.domain")
 //@EnableJpaRepositories("repositories")
-public class DialloAbdoullahLsi3SoaTp6Application /*extends SpringBootServletInitializer */{
+public class BassembenjbirLsi3SoaTp6Application /*extends SpringBootServletInitializer */{
 
     // Méthode principale appelée lors du lancement de l'application
     public static void main(String[] args) {
         // Lancement de l'application Spring Boot en utilisant la classe principale et les arguments fournis
-        SpringApplication.run(DialloAbdoullahLsi3SoaTp6Application.class, args);
+        SpringApplication.run(BassembenjbirLsi3SoaTp6Application.class, args);
     }
 
     @Bean
