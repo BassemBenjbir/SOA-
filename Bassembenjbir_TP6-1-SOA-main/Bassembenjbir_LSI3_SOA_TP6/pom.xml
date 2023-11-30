@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>DialloAbdoullah_LSI3_SOA_TP6</artifactId>
+    <artifactId>Bassembenjbir_LSI3_SOA_TP6</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>DialloAbdoullah_LSI3_SOA_TP6</name>
+    <name>Bassembenjbir_LSI3_SOA_TP6</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>17</java.version>
